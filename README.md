@@ -1,9 +1,18 @@
-Olá, eu sou a Greyce Freitas! 
-Estudante de Desenvolvimento de Sistemas e Engenharia de Computação  
-Focado em Python, HTML e CSS 
-Preparando-se para o mercado de tecnologia 
-Contato: grsmfreitas@ourlook.com 
+# Olá, eu sou o Greyce Freitas!
+* 🎓 Estudante de Desenvolvimento de Sistemas e Engenharia de Computação
+* 👩🏽‍💻 Focada em Python, HTML e CSS
+* 🖋️ Preparando-se para o mercado de tecnologia
+* ✉️ Contato: grsmfreitas@outlook.com
 
+## ⚙️ Tecnologias que estudo   
+<div style="display: inline_block"><br> 
+<img align="center" alt="Python" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+<img align="center" alt="HTML" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+<img align="center" alt="CSS" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+</div>   
 <!--
 **GrsmFreitas/GrsmFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
