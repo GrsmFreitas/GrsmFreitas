@@ -1,4 +1,4 @@
-# Olá, eu sou o Greyce Freitas!
+# Olá, eu sou a Greyce Freitas!
 * 🎓 Estudante de Desenvolvimento de Sistemas e Engenharia de Computação
 * 👩🏽‍💻 Focada em Python, HTML e CSS
 * 🖋️ Preparando-se para o mercado de tecnologia
